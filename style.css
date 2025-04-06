@@ -1,0 +1,14 @@
+nav {
+    border: solid, 2px, black;
+}
+.home {
+    display: flex;
+    justify-content: left;
+}
+.next-lesson {
+    display: flex;
+    justify-content: end;
+    border: solid, 1px, black;
+    background-color: aqua;
+    padding: 2px;
+}
